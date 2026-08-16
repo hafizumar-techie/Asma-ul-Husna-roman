@@ -1,5 +1,5 @@
 
-# 🖤 أسْمَاءُ اللهِ الحُسْنَىٰ — Asma-ul-Husna (Roman Urdu Edition)
+# 🖤 أسْمَاءُ اللهِ الحُسْنَىٰ —  Asma-ul-Husna (Roman Urdu Edition)
 
 An interactive, responsive web application showcasing the **99 Names of Allah** in a premium **Obsidian Onyx & Amber Gold** theme with smooth RTL 3D flip card interactions, English transliterations, and Roman Urdu meanings.
 
